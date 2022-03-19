@@ -1,0 +1,15 @@
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\bin\Debug\netstandard2.0\MyApp1.deps.json
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\bin\Debug\netstandard2.0\MyApp1.dll
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\bin\Debug\netstandard2.0\MyApp1.pdb
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MyApp1.csproj.AssemblyReference.cache
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MyApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MyApp1.AssemblyInfoInputs.cache
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MyApp1.AssemblyInfo.cs
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MyApp1.dll
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\MyApp1.pdb
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\ref\MyApp1.dll
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\bin\Debug\netstandard2.0\ref\MyApp1.dll

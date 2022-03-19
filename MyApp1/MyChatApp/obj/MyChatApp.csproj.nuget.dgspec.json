@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mdsib\\OneDrive\\Desktop\\Md Sibghatullah\\001 Side Project\\App Development\\MyApp1\\MyChatApp\\MyChatApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mdsib\\OneDrive\\Desktop\\Md Sibghatullah\\001 Side Project\\App Development\\MyApp1\\MyChatApp\\MyChatApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mdsib\\OneDrive\\Desktop\\Md Sibghatullah\\001 Side Project\\App Development\\MyApp1\\MyChatApp\\MyChatApp.csproj",
+        "projectName": "MyChatApp",
+        "projectPath": "C:\\Users\\mdsib\\OneDrive\\Desktop\\Md Sibghatullah\\001 Side Project\\App Development\\MyApp1\\MyChatApp\\MyChatApp.csproj",
+        "packagesPath": "C:\\Users\\mdsib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mdsib\\OneDrive\\Desktop\\Md Sibghatullah\\001 Side Project\\App Development\\MyApp1\\MyChatApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mdsib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

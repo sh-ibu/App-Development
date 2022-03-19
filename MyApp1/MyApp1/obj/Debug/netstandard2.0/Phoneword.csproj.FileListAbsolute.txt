@@ -1,0 +1,14 @@
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\ref\Phoneword.dll
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\mdsib\OneDrive\Desktop\Md Sibghatullah\001 Side Project\App Development\MyApp1\MyApp1\obj\Debug\netstandard2.0\refint\Phoneword.dll

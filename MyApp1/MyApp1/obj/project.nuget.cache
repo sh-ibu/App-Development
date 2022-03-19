@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g26lwpo3omC9G+ZYx2Y7zHdvTfkPYsX/OSwGQVXpWc4zlFSajkFLv9FC3JdU/7e3N+PDUwpNc9QL6jOebSdBaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdsib\\OneDrive\\Desktop\\Md Sibghatullah\\001 Side Project\\App Development\\MyApp1\\MyApp1\\Phoneword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdsib\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mdsib\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mdsib\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mdsib\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\mdsib\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
